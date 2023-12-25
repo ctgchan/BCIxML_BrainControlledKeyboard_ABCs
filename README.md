@@ -13,7 +13,7 @@ To type C, think of a "chill pond" (low freq)
 NB: everyone's brainwave frequencies may differ from each other, so for best results create your own data set using Alexandre's original file and your Muse and replace my ABCML_Data with that (format is csv)
 
 Check out my Youtube video for a live demo: https://www.youtube.com/watch?v=rgTSN3wEdDg
-Check out my Medium article for a full tutorial: (coming soon)
+Check out my Medium article for a full tutorial: https://medium.com/@cctgiselle/how-to-build-an-instantaneous-keyboard-controlled-by-thought-bcixml-94e8f7d196dd
 
 Hope you enjoy!
 -Giselle
